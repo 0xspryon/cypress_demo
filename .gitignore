@@ -7,6 +7,9 @@
 # Only exists if Bazel was run
 /bazel-out
 
+# ignore cypress videos and screenshots
+/cypress/screenshots
+/cypress/vieos
 # dependencies
 /node_modules
 
